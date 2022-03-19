@@ -1,5 +1,6 @@
 # ferrari-logo
 Print the iconic [Ferrari](https://www.ferrari.com/) logo to the console using unicode box characters!
+
 Minimum terminal width: 93 characters
 
 ## How it Looks
