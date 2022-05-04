@@ -30,3 +30,7 @@ then:
 const ferrari = require('ferrari-logo');
 console.log(ferrari.logo);
 ```
+
+## Related
+- [corvette-logo](https://www.npmjs.com/package/corvette-logo) - Print the Corvette logo to the console!
+- [bugatti-logo](https://www.npmjs.com/package/bugatti-logo) - Print the Bugatti logo to the console!

@@ -1,6 +1,6 @@
 {
   "name": "ferrari-logo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Print the iconic Ferrari logo to the console!",
   "main": "./src/index.js",
   "bin": {
@@ -18,5 +18,5 @@
   },
   "author": "Spiro Metaxas",
   "license": "MIT",
-  "keywords": [ "Ferrari", "Ferrari logo", "ferrari-logo", "automotive", "cars", "sports cars", "exotics", "console", "unicode" ]
+  "keywords": [ "Ferrari", "Ferrari logo", "ferrari-logo", "automotive", "cars", "sports cars", "exotics", "cli", "console", "shell", "terminal", "unicode" ]
 }
